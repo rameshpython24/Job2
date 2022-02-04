@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone=”no”?>
+<Registration>
+    <user>
+	<Email id="ramesh1234@gmail.com" />
+	<Radio mr="1" mrs="2"/>
+	<Name firstName="Ramesh" lastName="mailapalli" />
+	<passwd  ps="ram123" />
+	<dob days="15" months="08" year="92" />
+     </user>
+</Registraction>
+        
